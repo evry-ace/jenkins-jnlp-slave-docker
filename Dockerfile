@@ -1,4 +1,4 @@
-FROM jenkinsci/jnlp-slave:4.3-1
+FROM jenkins/jnlp-slave:4.9-1
 
 ARG docker_version=19.03.11
 
